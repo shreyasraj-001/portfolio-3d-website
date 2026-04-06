@@ -26,3 +26,27 @@ dist-ssr
 
 backup/
 .env
+
+# =========================
+# AI / Agent / Tooling
+# =========================
+
+.cursorrules
+.mcp.json
+.opencode.json
+.windsurfrules
+
+# Claude & AI folders
+.claude/
+.cursor/
+.code-review-graph/
+
+# AI generated files
+AGENTS.md
+AI_PUSH_REPORT.md
+CLAUDE.md
+CLAUDE_COPY.txt
+GEMINI.md
+
+# Optional config
+eslint.config.js
